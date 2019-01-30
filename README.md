@@ -26,3 +26,4 @@ test-request: 222  ->> DELETED  ->> fix #3
 master: fast forward 1
 
 fix:1
+fix:2
