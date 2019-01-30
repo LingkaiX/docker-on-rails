@@ -18,3 +18,7 @@
 3. PS: Also can run a one-time command by: `docker-compose run [SERVICE NAME] [COMMAND]`, for example: `docker-compose run app rake db:migrate`
 
 Try to visit: [homepage](http://localhost:3000) or [users](http://localhost:3000/users)
+
+
+
+test-commit: c1
