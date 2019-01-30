@@ -22,3 +22,5 @@ Try to visit: [homepage](http://localhost:3000) or [users](http://localhost:3000
 
 
 test-request: 222  ->> DELETED  ->> fix #3
+
+master: fast forward 1
